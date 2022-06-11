@@ -153,10 +153,10 @@ input::placeholder {
 	}
 	
 	.imputs{padding: 15px}
-	.fim{font-size: 67px;}
+	.fim{font-size: 57px;}
 	.blog{margin:auto; margin-top: 50px;}
 	#text{display: none;}
-	#one{margin: auto; margin-top: 90px; font-size: 56px;}
+	#one{margin: auto; margin-top: 90px; font-size: 46px;}
 	#img{margin: auto; margin-top: 45px; width: 80%; height: auto;}
 	#findy{font-size: 40px;}
 	#submit{margin: auto; margin-top: 30px; width: 60%; height: auto; font-size: 30px; padding: 20px; border-radius: 15px;}
